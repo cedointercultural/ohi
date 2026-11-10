@@ -1,0 +1,27 @@
+{
+    "id": "09E2A3DC",
+    "path": "~/OHI/read_OHImap.R",
+    "project_path": "read_OHImap.R",
+    "type": "r_source",
+    "hash": "1091528036",
+    "contents": "",
+    "dirty": false,
+    "created": 1762991456038.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "tempName": "Untitled1",
+        "cursorPosition": "1,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1762992287,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1762992287513,
+    "read_only": false,
+    "read_only_alternatives": []
+}
